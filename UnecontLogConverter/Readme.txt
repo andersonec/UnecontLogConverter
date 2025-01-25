@@ -17,7 +17,7 @@ Persistência de Dados
 
 
 ** INFORMAÇÕES PARA BUILD **
-	Podem rodar diretamente o projeto, ele vai gerar o banco a partir de Migrations.
+	Podem rodar diretamente o projeto, ele vai gerar o banco a partir de Migrations (lembre de editar a Connection String no appsettings.development.json).
 
 	Para deploy em um servidor com docker:
 
