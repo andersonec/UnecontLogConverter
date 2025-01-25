@@ -1,0 +1,158 @@
+{
+	"info": {
+		"_postman_id": "a0b3ec67-f7bd-4559-b864-91ba68df4f86",
+		"name": "Log Converter",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30778404"
+	},
+	"item": [
+		{
+			"name": "Transform",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8082/api/log/TransformLog?parameter=https://s3.amazonaws.com/uux-itaas-static/minha-cdn-logs/input-01.txt&saveToFile=false&saveToDatabase=true",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"log",
+						"TransformLog"
+					],
+					"query": [
+						{
+							"key": "parameter",
+							"value": "https://s3.amazonaws.com/uux-itaas-static/minha-cdn-logs/input-01.txt"
+						},
+						{
+							"key": "saveToFile",
+							"value": "false"
+						},
+						{
+							"key": "saveToDatabase",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Log",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8082/api/log/GetLog/0f8139d8-d7e7-4480-818b-428fdb1a9a97"
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Log",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8082/api/log/GetAllLogsAsync?startDate=2025-01-01&endDate=2025-01-30&orderByDateAsc=true&pageNumber=1&pageSize=10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"log",
+						"GetAllLogsAsync"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2025-01-01"
+						},
+						{
+							"key": "endDate",
+							"value": "2025-01-30"
+						},
+						{
+							"key": "orderByDateAsc",
+							"value": "true"
+						},
+						{
+							"key": "pageNumber",
+							"value": "1"
+						},
+						{
+							"key": "pageSize",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Transformed Log",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8082/api/log/GetAllTransformedLogsAsync?startDate=2025-01-01&endDate=2025-01-30&orderByDateAsc=true&pageNumber=1&pageSize=10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"api",
+						"log",
+						"GetAllTransformedLogsAsync"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2025-01-01"
+						},
+						{
+							"key": "endDate",
+							"value": "2025-01-30"
+						},
+						{
+							"key": "orderByDateAsc",
+							"value": "true"
+						},
+						{
+							"key": "pageNumber",
+							"value": "1"
+						},
+						{
+							"key": "pageSize",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transformed Log",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8082/api/log/GetLogTransformation/0f8139d8-d7e7-4480-818b-428fdb1a9a97"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Log with Transformation",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8082/api/log/GetLogWithTransformation/0f8139d8-d7e7-4480-818b-428fdb1a9a97"
+			},
+			"response": []
+		}
+	]
+}

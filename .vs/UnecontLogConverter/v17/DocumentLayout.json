@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|c:\\users\\ander\\onedrive\\documentos\\projetos\\testes_psel\\unecontlogconverter\\unecontlogconverter\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE561F0B-787D-4242-88BA-B35ADA506AC9}|UnecontLogConverter\\UnecontLogConverter.csproj|solutionrelative:unecontlogconverter\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\appsettings.json",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\appsettings.json",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\appsettings.json",
+              "RelativeToolTip": "UnecontLogConverter\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T01:19:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Readme.txt",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\Readme.txt",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Readme.txt",
+              "RelativeToolTip": "UnecontLogConverter\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-25T01:16:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\appsettings.Development.json",
+              "RelativeToolTip": "UnecontLogConverter\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T00:34:46.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\docker-compose.yml",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\docker-compose.yml",
+              "RelativeToolTip": "UnecontLogConverter\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-25T00:31:43.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Startup.cs",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\Startup.cs",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Startup.cs",
+              "RelativeToolTip": "UnecontLogConverter\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:17:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "UnecontLogConverter\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\ander\\OneDrive\\Documentos\\PROJETOS\\TESTES_PSEL\\UnecontLogConverter\\UnecontLogConverter\\Services\\LogService.cs",
+              "RelativeToolTip": "UnecontLogConverter\\Services\\LogService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T00:01:28.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
